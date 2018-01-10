@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DDDS/DDDS.iml" filepath="$PROJECT_DIR$/DDDS/DDDS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FYP.iml" filepath="$PROJECT_DIR$/FYP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OpenCVLibrary249/OpenCVLibrary249.iml" filepath="$PROJECT_DIR$/OpenCVLibrary249/OpenCVLibrary249.iml" />
+    </modules>
+  </component>
+</project>
